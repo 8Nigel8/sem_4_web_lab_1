@@ -1,0 +1,11 @@
+{
+    "name": "seven_modules",
+    "version": "1.0.0",
+    "description": "seven modules",
+    "main": "seven_modules.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Dniprovets",
+    "license": "ISC"
+  }
